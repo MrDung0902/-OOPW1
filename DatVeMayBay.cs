@@ -45,6 +45,7 @@ namespace OOPW1
                 Console.WriteLine(" Ma Chuyen bay khong hop le !!!");
             }
             /// Commet khong can thiet
+            /// them thong tin ve may bay
         }
     }
 }

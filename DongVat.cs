@@ -38,6 +38,8 @@ namespace OOPW1
             dongvat.Add(meo);
             //meo.An();
             //meo.TreoCay();
+            // Meo meo = new Meo("Tom", 1);
+            //dongvat.Add(meo)
             foreach (var d in dongvat)
             {
                 Console.WriteLine($" ======Loai Dong vat : {d.GetType().Name}");
