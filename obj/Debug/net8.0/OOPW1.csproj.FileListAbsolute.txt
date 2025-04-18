@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\W1\OOPW1\bin\Debug\net8.0\OOPW1.exe
+C:\Users\PC\source\repos\W1\OOPW1\bin\Debug\net8.0\OOPW1.deps.json
+C:\Users\PC\source\repos\W1\OOPW1\bin\Debug\net8.0\OOPW1.runtimeconfig.json
+C:\Users\PC\source\repos\W1\OOPW1\bin\Debug\net8.0\OOPW1.dll
+C:\Users\PC\source\repos\W1\OOPW1\bin\Debug\net8.0\OOPW1.pdb
+C:\Users\PC\source\repos\W1\OOPW1\obj\Debug\net8.0\OOPW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\W1\OOPW1\obj\Debug\net8.0\OOPW1.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\W1\OOPW1\obj\Debug\net8.0\OOPW1.AssemblyInfo.cs
+C:\Users\PC\source\repos\W1\OOPW1\obj\Debug\net8.0\OOPW1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\W1\OOPW1\obj\Debug\net8.0\OOPW1.dll
+C:\Users\PC\source\repos\W1\OOPW1\obj\Debug\net8.0\refint\OOPW1.dll
+C:\Users\PC\source\repos\W1\OOPW1\obj\Debug\net8.0\OOPW1.pdb
+C:\Users\PC\source\repos\W1\OOPW1\obj\Debug\net8.0\OOPW1.genruntimeconfig.cache
+C:\Users\PC\source\repos\W1\OOPW1\obj\Debug\net8.0\ref\OOPW1.dll
