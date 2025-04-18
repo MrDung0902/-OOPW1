@@ -21,12 +21,15 @@ namespace OOPW1
             _soGhe = soGhe;
             _tenKhachHang = tenKhachHang;
         }
+        
         public void InThongTin()
         {
             Console.WriteLine("======= Thong Tin Ve May Bay =========");
             Console.WriteLine($" Ma chuyen bay: {MaChuyenBay}");
             Console.WriteLine(($" So Ghe: {SoGhe}"));
             Console.WriteLine($"Ten Khach hang: {TenKhachHang}");
+            // Comment in thong tin chuyen bay
+            ///public void InThongTin()
         }
     }
     class Phan5Bai8
@@ -44,7 +47,7 @@ namespace OOPW1
             {
                 Console.WriteLine(" Ma Chuyen bay khong hop le !!!");
             }
-            /// Commet khong can thiet
+           
         }
     }
 }
