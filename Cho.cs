@@ -31,4 +31,5 @@ namespace OOPW1
             Console.WriteLine($"{Ten} đang trèo cây.");
         }
     }
+    // Lớp DongVat là lớp cơ sở
 }
