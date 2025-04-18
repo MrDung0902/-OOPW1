@@ -39,7 +39,11 @@ namespace OOPW1
             //meo.An();
             //meo.TreoCay();
             // Meo meo = new Meo("Tom", 1);
-            //dongvat.Add(meo)
+
+=======
+            // Meo meo = new Meo("Tom", 1);
+            //dongvat.Add(meo);
+>>>>>>> Datvemaybay
             foreach (var d in dongvat)
             {
                 Console.WriteLine($" ======Loai Dong vat : {d.GetType().Name}");
